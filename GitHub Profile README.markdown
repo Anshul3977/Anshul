@@ -38,7 +38,7 @@ I’m a **B.Tech CSE student** at Ramdeobaba University (CGPA: 8.2), passionate 
 
 ## 📫 Let’s Connect!
 - 📧 Email: [palarpwaranshul@gmail.com](mailto:palarpwaranshul@gmail.com)
-- 🔗 LinkedIn: [anshul-palarpwar](https://www.linkedin.com/in/anshul-palarpwar)
+- 🔗 LinkedIn: [anshul-palarpwar](https://www.linkedin.com/in/anshul-palarpwar-1a7315264/)
 - 🌐 Codeforces: [Anshul3977](https://codeforces.com/profile/Anshul3977)
 
 Feel free to explore my repositories and reach out—I’m excited to collaborate on impactful projects! 🚀
