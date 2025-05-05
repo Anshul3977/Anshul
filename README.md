@@ -6,7 +6,7 @@ I’m a **B.Tech CSE student** at Ramdeobaba University (CGPA: 8.2), passionate 
 
 ## 🚀 What I Do
 - 💻 **Full-Stack Development**: Creating responsive, modular web apps using **React**, **Flask**, and **TypeScript**.
-- 🤖 **Machine Learning**: Testing and fine-tuning ML models, achieving an 18% accuracy boost at Alignerr.
+- 🤖 **Machine Learning**: Testing and fine-tuning ML models.
 - 🌐 **Blockchain Exploration**: Experimenting with decentralized technologies for innovative applications.
 
 ---
